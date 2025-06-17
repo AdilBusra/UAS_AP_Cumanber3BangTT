@@ -10,4 +10,4 @@ Deskripsi Program : https://docs.google.com/document/d/1DWrSY7fWSkpRuPLutHazzoss
 
 GDrive Screenshot hasil program : https://drive.google.com/drive/folders/139zh32q6OTMROSKyuxis468wXNr_WulO?usp=sharing
 
-YouTube Video Presentasi :
+YouTube Video Presentasi : https://youtu.be/s_9JJfYvf34?si=5seOK9CGYdtXHEnA
