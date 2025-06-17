@@ -34,7 +34,7 @@ class PapanLotreDigital {
                 int baris = rand() % jumlah_baris;
                 int kolom = rand() % jumlah_kolom;
                 if (isiKotak[baris][kolom] == 0) {
-                    isiKotak[baris][kolom] = 1; // 1 = bom
+                    isiKotak[baris][kolom] = 1;
                     bomTerpasang++;
                 }
             }
